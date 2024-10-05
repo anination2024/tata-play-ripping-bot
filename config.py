@@ -4,7 +4,7 @@ api_hash = "07d6e9be440c5176552d905c1206602d"
 
 bot_token = "7931617358:AAF-mEhifUv0cfBqcLDFnU-lsFogAT9mV-A"
 
-GROUP_TAG = "RC"
+GROUP_TAG = "NOVA"
 
 sudo_users = [6041853726]
 
