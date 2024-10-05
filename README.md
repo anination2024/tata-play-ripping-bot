@@ -13,7 +13,7 @@ commands -
 
 /tata - Playback Recording 
 
-Owner - https://t.me/Beryllium_cs
+Owner - https://t.me/KafskaHibino
 
 Screenshots - 
 
@@ -25,4 +25,4 @@ Catchup ☝️
 
 Deploy to Koyeb 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=https://github.com/anination2024/tata-play-ripping-bot/tree/main)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=tata-play-ripping-bot&type=git&repository=anination2024%2Ftata-play-ripping-bot&branch=main&builder=buildpack&service_type=worker&instance_type=nano&env%5B%5D=&ports=8000%3Bhttp%3B%2F)
