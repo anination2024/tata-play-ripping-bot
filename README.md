@@ -1,8 +1,6 @@
 # TataPlay_Bot-RC
 
-join my channel - https://t.me/RCrips
-
-Thanks to Conan Edogowa for code 
+ 
 
 To host bot Run these commands -
 
@@ -25,4 +23,6 @@ Playback/Live ☝️
 ![Screenshot_20230520-202113~2](https://github.com/Atomic153/TataPlay_Bot-RC/assets/127301463/bf882f30-62d4-460c-9680-380089342d5d)
 Catchup ☝️
 
+Deploy to Koyeb 
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=https://github.com/anination2024/tata-play-ripping-bot/tree/main)
