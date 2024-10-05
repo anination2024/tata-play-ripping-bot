@@ -6,9 +6,9 @@ bot_token = "7931617358:AAF-mEhifUv0cfBqcLDFnU-lsFogAT9mV-A"
 
 Owner_id = "6185603363"
 
-GROUP_TAG = "RC"
+GROUP_TAG = "JINWOO"
 
-sudo_users = [6041853726]
+sudo_users = [6185603363]
 
 DL_DONE_MSG = """
 ✅ <b> {} Completed In </b> <code>{}</code>
