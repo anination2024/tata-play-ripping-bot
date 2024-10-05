@@ -35,16 +35,18 @@
       "k": "f581424c14e35eee924f0a0b9d22c81c:1b776df9fab529a5055c41dbbb070ccd",
       "audio": [
         "Hindi",
-        "English"
+        "English",
+        "Tamil"
       ],
       "audio_id": [
         "audio_94482_hin=94000",
-        "audio_94484_eng=94000"
+        "audio_94484_eng=94000",
+        "audio_94485_tam=94000"
       ],
       "video_id": "video=3187600",
       "ripType": "TATAPlay TV-DL",
       "catchup": "00:15:00",
-      "quality": "480p"
+      "quality": "1080p"
     }
   ],
   "SuperHungama": [
